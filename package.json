@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "async-waterfall": "^0.1.5",
-    "ipfs": "^0.30.0",
+    "ipfs": "^0.65.0",
     "ipfs-api": "^22.2.3"
   }
 }
